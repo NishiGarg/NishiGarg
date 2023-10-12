@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @NishiGarg
-- 
+- I am a full stack developer.
+- Right now I am working in TCS(Tata Consultancy Service).
+  
+  
 
 
 <!---
